@@ -1,0 +1,14 @@
+button {
+  background: rgb(199, 169, 37);
+  color: white;
+  border-radius: 10px;
+  height: 70px;
+  width: 250px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  border: rgb(199, 169, 37);
+  font-weight: bold;
+}
